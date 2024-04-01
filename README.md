@@ -18,7 +18,7 @@ $ pkg install nodejs-lts -y
 $ pkg install git -y
 $ pkg install ffmpeg -y
 $ $ pkg install imagemagick -y
-$ gitclone https://github.com/SUPREME-009/GuruBOT
+$ git clone https://github.com/SUPREME-009/GuruBOT.git
 $ cd GuruBOT
 $ pkg install yarn
 $ yarn install
