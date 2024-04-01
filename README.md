@@ -23,3 +23,7 @@ $ yarn install
 $ sh start.sh
 
 ```
+2. Espera a que el bot inicie...
+3. Ingresa tu número de teléfono
+4. copia el código (Ve a whatsapp > Disposivos vinculados > Pulsa en `Vincular Dispositivo`) Pulsa en `Vincular con rl número de teléfono`)
+5. Disfruta del bot. ;)
