@@ -28,8 +28,12 @@ $ sh start.sh
 4. copia el código (Ve a whatsapp > Disposivos vinculados > Pulsa en `Vincular Dispositivo`) Pulsa en `Vincular con el número de teléfono`)
 5. Disfruta del bot. ;)
 
-6. En caso de que la sesión se cierra
+6. En caso de que la sesión se cierre
 ```sh
 $ cd GuruBOT
 $ sh start.sh
 ```
+
+
+## CREADOR Y PROPIETARIO DE ESTE BOT
+[![ODIN](https://github.com/SUPREME-009.png?size=100)](https://github.com/SUPREME-009)
