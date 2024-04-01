@@ -37,6 +37,3 @@ $ sh start.sh
 
 ## CREADOR Y PROPIETARIO DE ESTE BOT
 [![ODIN](https://github.com/SUPREME-009.png?size=100)](https://github.com/SUPREME-009)
-
-## INFINIX BOT 2022 BY: @Odin
-[![ODIN](https://i.ibb.co/NYsx0nw/Screenshot-3.jpg?size=300)](https://github.com/OdinTm/INFINIXBOT2022-MD)
