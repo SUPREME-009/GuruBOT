@@ -8,5 +8,11 @@
 ### Ejecutar en termux
 1. Escribe asi como esta en la lista de orden cada comando para ejecutar en Termux
 ```sh
-$ termux-setup-storage && pkg upgrade -y && pkg update -y && pkg install nodejs -y && pkg install nodejs-lts -y && pkg install git -y && pkg install ffmpeg -y
+$ termux-setup-storage
+$ pkg upgrade -y
+$ pkg update -y
+$ pkg install nodejs -y
+$ pkg install nodejs-lts -y
+$ pkg install git -y
+$ pkg install ffmpeg -y
 ```
