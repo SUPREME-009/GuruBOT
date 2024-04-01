@@ -12,7 +12,14 @@ $ termux-setup-storage
 $ pkg upgrade -y
 $ pkg update -y
 $ pkg install nodejs -y
+$ pkg install wget
 $ pkg install nodejs-lts -y
 $ pkg install git -y
 $ pkg install ffmpeg -y
+$ $ pkg install imagemagick -y
+$ gitclone https://github.com/SUPREME-009/GuruBOT
+$ pkg install yarn
+$ yarn install
+$ sh start.sh
+
 ```
