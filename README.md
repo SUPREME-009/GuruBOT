@@ -1,5 +1,5 @@
 ## GURUBOT 2033 BY: @SUPREME009
-[![SUPREME](https://ibb.co/CKXT6zZ)](https://github.com/SUPREME-009/GuruBOT)
+[![SUPREME](./Media/Imagenes/GuruLogo.jpg)](https://github.com/SUPREME-009/GuruBOT)
 
 ##Grupo Oficial de Whatsapp
 
